@@ -4,7 +4,7 @@ import Logo from '../../assets/images/logo.svg';
 
 const Navbar = () => {
   return (
-    <nav className='w-full px-12 py-2 items-center grid grid-cols-2 bg-blue-solomon bg-opacity-25'>
+    <nav className='w-full px-12 py-2 items-center grid grid-cols-2 bg-blue-solomon bg-opacity-25 max-h-96'>
       <div className='col-span-1'>
         <Link to='/'>
           <img src={Logo} alt='logo' />
