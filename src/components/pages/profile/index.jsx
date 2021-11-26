@@ -9,7 +9,7 @@ const Profile = () => {
     <>
       <section className='flex items-center justify-center w-full h-screen bg-cover bg-hero-pattern'>
         <div className='flex flex-col items-center gap-6'>
-          <HeadTitle title={'Our Profile'} />
+          <HeadTitle title={'Our Profile'} color={'text-white'} />
           <div className='flex flex-col items-center text-white'>
             <span className='font-semibold'>Vision</span>
             <span>
