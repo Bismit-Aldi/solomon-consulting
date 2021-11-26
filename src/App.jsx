@@ -7,10 +7,12 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar />
-      <Routes>
-        <Route path='/' element={<Home />} exact />
-        <Route path='/profile' element={<Profile />} exact />
-      </Routes>
+      <main className='w-full overflow-x-hidden'>
+        <Routes>
+          <Route path='/' element={<Home />} exact />
+          <Route path='/profile' element={<Profile />} exact />
+        </Routes>
+      </main>
     </BrowserRouter>
   );
 }
