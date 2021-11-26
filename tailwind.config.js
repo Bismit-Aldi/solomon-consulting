@@ -9,6 +9,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern': "url('../images/hero_bg.svg')",
+        'mid-logo': "url('../images/Frame 6.svg')",
       },
     },
   },
