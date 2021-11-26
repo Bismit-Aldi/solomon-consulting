@@ -1,7 +1,7 @@
-import aldi from '../../../assets/images/aldi.jpg';
-import bod1 from '../../../assets/images/bod1.jpg';
-import bod2 from '../../../assets/images/bod2.jpg';
-import bod3 from '../../../assets/images/bod3.jpg';
+import aldi from '../../../../assets/images/aldi.jpg';
+import bod1 from '../../../../assets/images/bod1.jpg';
+import bod2 from '../../../../assets/images/bod2.jpg';
+import bod3 from '../../../../assets/images/bod3.jpg';
 
 const BODs = [
   {

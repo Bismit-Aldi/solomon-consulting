@@ -1,6 +1,6 @@
 import React from 'react';
 import { v4 as uuid } from 'uuid';
-import HeadTitle from '../global/HeadTitle';
+import HeadTitle from '../../global/HeadTitle';
 import BODs from './utils/BOD';
 import BODCard from './BODCard';
 
